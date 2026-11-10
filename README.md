@@ -3,12 +3,13 @@
 Personal academic profile for Barbara Jones.
 
 - `data/publications.json` holds one record per paper.
-- Companion code repositories are published under the same GitHub account.
+- `code/` holds one folder per companion code release.
 
 Field notes for `data/publications.json`:
 
 - `status`: `under review`, `accepted` or `published`.
 - `venue`: the venue name once a decision is known; empty while under review.
-- `code_repo`: name of the companion repository, when one is planned.
-- `code_url`: public URL of a released code repository; empty when the code is not
-  publicly available.
+- `code_repo`: folder name of the companion code release under `code/`, when one is
+  planned.
+- `code_url`: public GitHub URL of a released code release folder; empty when the code
+  is not publicly available.
