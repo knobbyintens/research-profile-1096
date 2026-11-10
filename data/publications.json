@@ -7,28 +7,28 @@
       "title": "Sparse Evidence Routing for Long-Context Retrieval",
       "authors": "B. Jones, K. Osei, M. Lindqvist",
       "year": 2026,
-      "status": "under review",
-      "venue": "",
+      "status": "accepted",
+      "venue": "CLAIR 2026",
       "code_repo": "sparse-evidence-routing",
-      "code_url": ""
+      "code_url": "https://github.com/wholetherapi/research-profile-1096/tree/main/code/sparse-evidence-routing"
     },
     {
       "id": "latent-drift-calibration",
       "title": "Latent Drift Calibration for Streaming Classifiers",
       "authors": "B. Jones, R. Haddad",
       "year": 2026,
-      "status": "under review",
-      "venue": "",
+      "status": "accepted",
+      "venue": "SIGDR 2026",
       "code_repo": "latent-drift-calibration",
-      "code_url": ""
+      "code_url": "https://github.com/wholetherapi/research-profile-1096/tree/main/code/latent-drift-calibration"
     },
     {
       "id": "contrastive-curriculum-distillation",
       "title": "Contrastive Curriculum Distillation for Small Language Models",
       "authors": "B. Jones, P. Adeyemi, S. Novak",
       "year": 2026,
-      "status": "under review",
-      "venue": "",
+      "status": "accepted",
+      "venue": "AIMLA 2026",
       "code_repo": "contrastive-curriculum-distillation",
       "code_url": ""
     },
