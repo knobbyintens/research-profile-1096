@@ -10,7 +10,7 @@
       "status": "accepted",
       "venue": "CLAIR 2026",
       "code_repo": "sparse-evidence-routing",
-      "code_url": "https://github.com/wholetherapi/research-profile-1096/tree/main/code/sparse-evidence-routing"
+      "code_url": "https://github.com/knobbyintens/research-profile-1096/tree/main/code/sparse-evidence-routing"
     },
     {
       "id": "latent-drift-calibration",
@@ -20,7 +20,7 @@
       "status": "accepted",
       "venue": "SIGDR 2026",
       "code_repo": "latent-drift-calibration",
-      "code_url": "https://github.com/wholetherapi/research-profile-1096/tree/main/code/latent-drift-calibration"
+      "code_url": "https://github.com/knobbyintens/research-profile-1096/tree/main/code/latent-drift-calibration"
     },
     {
       "id": "contrastive-curriculum-distillation",
